@@ -147,6 +147,6 @@ public class Day2 {
       int biggest = three>four ? three : four;
 //      System.out.println(biggest);
 
-      
+
   }
 }
