@@ -17,8 +17,9 @@ public class Day1 {
         Scanner scanner = new Scanner(System.in);
 
         //scanner.nextLine() used to read user Input in string format
-        // name is variable which stores the value of user input which can be used in the program
         System.out.println("Enter your name: ");
+        //Variable is a named container to store data
+        // name is variable which stores the value of user input which can be used in the program
         String name = scanner.nextLine();
 
         // printing the user input
