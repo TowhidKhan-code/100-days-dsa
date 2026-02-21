@@ -18,8 +18,8 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Environment Setup + Hello World + Variables + Arithmetic + Input | ✅ |
-| Day 2 | Data Types + Type Casting + All Operators + Practice Programs | ✅ |
-| Day 3 | | |
+| Day 2 | Data Types + Type Casting + Type Promotion + All Operators + Practice Programs | ✅ |
+| Day 3 | Conditionals (if/else, switch) + Loops (for, while, do-while) + break/continue + FizzBuzz + Reverse Number | ✅ |
 | Day 4 | | |
 | Day 5 | | |
 | Day 6 | | |
@@ -37,22 +37,39 @@ consistent daily practice — no shortcuts, no skipping days.
 | Phase 4 | Interview Prep + Mock Interviews + Java Internals | 66 - 80 | ⏳ |
 | Phase 5 | Applying + Communication + Networking | 81 - 100 | ⏳ |
 
+## Programs Written So Far
+- Hello World
+- Variables and Data Types
+- User Input with Scanner
+- Type Casting and Type Promotion
+- Arithmetic, Relational, Logical Operators
+- Swap Two Numbers Without Third Variable
+- Even or Odd using Ternary
+- Biggest of Two Numbers
+- Grade Checker
+- Print 1 to 100
+- Sum of N Numbers
+- Multiplication Table
+- Reverse a Number
+- FizzBuzz
+- Calculator using Switch
+
 ## Folder Structure
 ```
 src/
-├── javabasics/       ← Variables, Operators, Loops, Conditionals
-├── oop/              ← Classes, Objects, Inheritance, Polymorphism
-├── arrays/           ← Array problems and patterns
-├── recursion/        ← Recursion and Backtracking
-├── linkedlists/      ← Linked List problems
-├── stacksqueues/     ← Stack and Queue problems
-├── trees/            ← Binary Tree and BST problems
-├── graphs/           ← Graph algorithms
+├── javabasics/         ← Variables, Operators, Loops, Conditionals
+├── oop/                ← Classes, Objects, Inheritance, Polymorphism
+├── arrays/             ← Array problems and patterns
+├── recursion/          ← Recursion and Backtracking
+├── linkedlists/        ← Linked List problems
+├── stacksqueues/       ← Stack and Queue problems
+├── trees/              ← Binary Tree and BST problems
+├── graphs/             ← Graph algorithms
 └── dynamicprogramming/ ← DP problems
 ```
 
 ## Current Skills
-- Java (Learning)
+- Java (Learning — Day 3)
 - HTML + CSS (Basics)
 - SQL (Basics)
 - Git + GitHub
