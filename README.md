@@ -20,7 +20,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 1 | Environment Setup + Hello World + Variables + Arithmetic + Input | ✅ |
 | Day 2 | Data Types + Type Casting + Type Promotion + All Operators + Practice Programs | ✅ |
 | Day 3 | Conditionals (if/else, switch) + Loops (for, while, do-while) + break/continue + FizzBuzz + Reverse Number | ✅ |
-| Day 4 | | |
+| Day 4 | Methods + Return Values + Parameters + Scope + Shadowing + VarArgs + Method Overloading + Pass by Value | ✅ |
 | Day 5 | | |
 | Day 6 | | |
 | Day 7 | | |
@@ -53,11 +53,30 @@ consistent daily practice — no shortcuts, no skipping days.
 - Reverse a Number
 - FizzBuzz
 - Calculator using Switch
+- Methods — all 4 types
+- Return Values
+- VarArgs — sumAll with any number of arguments
+- Method Overloading
+- Pass by Value demonstration
+
+## Concepts Covered
+- Java Fundamentals — variables, data types, operators
+- Type casting and type promotion
+- Scanner input with buffer flush fix
+- Conditionals — if/else, switch with fall-through
+- Loops — for, while, do-while, break, continue
+- Methods — definition, return types, parameters
+- Pass by Value — why primitives and Strings dont change
+- String immutability
+- Scope — method, block, loop
+- Variable shadowing
+- VarArgs
+- Method overloading — compile time polymorphism
 
 ## Folder Structure
 ```
 src/
-├── javabasics/         ← Variables, Operators, Loops, Conditionals
+├── javabasics/         ← Variables, Operators, Loops, Conditionals, Methods
 ├── oop/                ← Classes, Objects, Inheritance, Polymorphism
 ├── arrays/             ← Array problems and patterns
 ├── recursion/          ← Recursion and Backtracking
@@ -69,7 +88,7 @@ src/
 ```
 
 ## Current Skills
-- Java (Learning — Day 3)
+- Java (Learning — Day 4)
 - HTML + CSS (Basics)
 - SQL (Basics)
 - Git + GitHub
