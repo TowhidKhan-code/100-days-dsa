@@ -22,7 +22,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 3 | Conditionals (if/else, switch) + Loops (for, while, do-while) + break/continue + FizzBuzz + Reverse Number | ✅ |
 | Day 4 | Methods + Return Values + Parameters + Scope + Shadowing + VarArgs + Method Overloading + Pass by Value | ✅ |
 | Day 5 | Arrays — Internal Working + null + String Arrays + for-each + toString + Array of Objects + Heap Storage + Array in Functions + 2D Arrays + ArrayList + Array Functions | ✅ |
-| Day 6 | | |
+| Day 6 | Array Practice — Input/Output, Max/Min, Sum/Average, Reverse, Linear Search, Count Occurrences, Move Zeros, 2D Array, Row Wise Sum | ✅ |
 | Day 7 | | |
 | Day 8 | | |
 | Day 9 | | |
@@ -60,6 +60,7 @@ consistent daily practice — no shortcuts, no skipping days.
 - 2D arrays and jagged arrays
 - ArrayList — dynamic resizing, autoboxing
 - Built-in Array functions — sort, search, fill, copy
+
 
 
 ## Programs Written So Far
@@ -104,7 +105,7 @@ src/
 - Git + GitHub
 
 ## Connect With Me
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: [www.linkedin.com/in/towhid-khan-320b5734b](www.linkedin.com/in/towhid-khan-320b5734b)
 - GitHub: [github.com/TowhidKhan-code/100-days-dsa](https://github.com/TowhidKhan-code/100-days-dsa)
 
 ---
