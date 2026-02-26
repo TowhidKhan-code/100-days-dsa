@@ -23,7 +23,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 4 | Methods + Return Values + Parameters + Scope + Shadowing + VarArgs + Method Overloading + Pass by Value | ✅ |
 | Day 5 | Arrays — Internal Working + null + String Arrays + for-each + toString + Array of Objects + Heap Storage + Array in Functions + 2D Arrays + ArrayList + Array Functions | ✅ |
 | Day 6 | Array Practice — Input/Output, Max/Min, Sum/Average, Reverse, Linear Search, Count Occurrences, Move Zeros, 2D Array, Row Wise Sum | ✅ |
-| Day 7 | | |
+| Day 7 | Linear Search — Basic, String, 2D, All Occurrences + 7 LeetCode Problems | ✅ |
 | Day 8 | | |
 | Day 9 | | |
 | Day 10 | | |
@@ -60,8 +60,7 @@ consistent daily practice — no shortcuts, no skipping days.
 - 2D arrays and jagged arrays
 - ArrayList — dynamic resizing, autoboxing
 - Built-in Array functions — sort, search, fill, copy
-
-
+- Linear search — basic, string, 2D, all occurrences
 
 ## Programs Written So Far
 - Hello World
@@ -82,6 +81,31 @@ consistent daily practice — no shortcuts, no skipping days.
 - Prime Checker using Method
 - Method Overloading — multiply
 - Pass by Value demonstration
+- Array Input and Output
+- Find Max and Min in Array
+- Sum and Average of Array
+- Reverse an Array — two pointer
+- Check if Array is Sorted
+- Count Occurrences
+- Linear Search
+- Move Zeros to End
+- 2D Array Input and Output
+- Row Wise Sum of 2D Array
+- Linear Search — Basic, String Array, 2D Array
+- Find All Occurrences using ArrayList
+- Search in Range
+- Find Minimum and Its Index
+
+## LeetCode Solved
+| Problem | Title | Difficulty |
+|---------|-------|------------|
+| 1920 | Build Array from Permutation | Easy |
+| 1480 | Running Sum of 1D Array | Easy |
+| 1929 | Concatenation of Array | Easy |
+| 1672 | Richest Customer Wealth | Easy |
+| 1295 | Find Numbers with Even Number of Digits | Easy |
+| 28 | Find Index of First Occurrence in String | Easy |
+| 35 | Search Insert Position | Easy |
 
 
 ## Folder Structure
