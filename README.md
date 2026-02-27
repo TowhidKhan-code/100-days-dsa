@@ -24,7 +24,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 5 | Arrays — Internal Working + null + String Arrays + for-each + toString + Array of Objects + Heap Storage + Array in Functions + 2D Arrays + ArrayList + Array Functions | ✅ |
 | Day 6 | Array Practice — Input/Output, Max/Min, Sum/Average, Reverse, Linear Search, Count Occurrences, Move Zeros, 2D Array, Row Wise Sum | ✅ |
 | Day 7 | Linear Search — Basic, String, 2D, All Occurrences + 7 LeetCode Problems | ✅ |
-| Day 8 | | |
+| Day 8 | Binary Search — Iterative, First Occurrence, Last Occurrence, Count Occurrences + LC 704 | ✅ |
 | Day 9 | | |
 | Day 10 | | |
 
@@ -61,6 +61,8 @@ consistent daily practice — no shortcuts, no skipping days.
 - ArrayList — dynamic resizing, autoboxing
 - Built-in Array functions — sort, search, fill, copy
 - Linear search — basic, string, 2D, all occurrences
+- Binary search — iterative, first/last occurrence, count occurrences
+- Safe mid formula — low + (high - low) / 2
 
 ## Programs Written So Far
 - Hello World
@@ -95,6 +97,10 @@ consistent daily practice — no shortcuts, no skipping days.
 - Find All Occurrences using ArrayList
 - Search in Range
 - Find Minimum and Its Index
+- Binary Search Iterative
+- First Occurrence in Sorted Array
+- Last Occurrence in Sorted Array
+- Count Occurrences using First and Last
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
@@ -106,6 +112,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | 1295 | Find Numbers with Even Number of Digits | Easy |
 | 28 | Find Index of First Occurrence in String | Easy |
 | 35 | Search Insert Position | Easy |
+| 704 | Binary Search | Easy |
 
 
 ## Folder Structure
