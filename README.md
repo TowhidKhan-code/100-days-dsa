@@ -25,7 +25,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 6 | Array Practice — Input/Output, Max/Min, Sum/Average, Reverse, Linear Search, Count Occurrences, Move Zeros, 2D Array, Row Wise Sum | ✅ |
 | Day 7 | Linear Search — Basic, String, 2D, All Occurrences + 7 LeetCode Problems | ✅ |
 | Day 8 | Binary Search — Iterative, First Occurrence, Last Occurrence, Count Occurrences + LC 704 | ✅ |
-| Day 9 | | |
+| Day 9 | Binary Search Practice — Ceiling, Floor, Infinite Array, Peak Index + LC 744, 34, 852 | ✅ |
 | Day 10 | | |
 
 ## Topics Roadmap
@@ -63,6 +63,10 @@ consistent daily practice — no shortcuts, no skipping days.
 - Linear search — basic, string, 2D, all occurrences
 - Binary search — iterative, first/last occurrence, count occurrences
 - Safe mid formula — low + (high - low) / 2
+- Ceiling and floor using binary search
+- Why start = ceiling and end = floor after loop ends
+- Infinite array search — window doubling technique
+- Peak index in mountain array — brute force and binary search
 
 ## Programs Written So Far
 - Hello World
@@ -101,6 +105,10 @@ consistent daily practice — no shortcuts, no skipping days.
 - First Occurrence in Sorted Array
 - Last Occurrence in Sorted Array
 - Count Occurrences using First and Last
+- Ceiling of a Number
+- Floor of a Number
+- Position of Element in Infinite Sorted Array
+- Peak Index in Mountain Array — brute force and binary search
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
@@ -113,6 +121,9 @@ consistent daily practice — no shortcuts, no skipping days.
 | 28 | Find Index of First Occurrence in String | Easy |
 | 35 | Search Insert Position | Easy |
 | 704 | Binary Search | Easy |
+| 744 | Find Smallest Letter Greater Than Target | Easy |
+| 34  | Find First and Last Position in Sorted Array | Medium |
+| 852 | Peak Index in a Mountain Array | Medium |
 
 
 ## Folder Structure
