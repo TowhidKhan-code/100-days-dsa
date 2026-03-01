@@ -56,6 +56,43 @@ public class Day8BinarySearch {
         return -1; // not found
     }
 
+    // ============================================================
+    // ORDER AGNOSTIC BINARY SEARCH
+    // When you don't know if array is sorted ascending or descending
+    // Check first and last element to determine order
+    // Then apply normal binary search accordingly
+    // ============================================================
+
+    static int orderAgnosticBinarySearch(int[] arr, int target) {
+        int start = 0;
+        int end = arr.length - 1;
+
+        // check if array is ascending or descending
+        boolean isAsc = arr[start] < arr[end];
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+
+            if (arr[mid] == target) {
+                return mid;
+            }
+
+            if (isAsc) {
+                if (arr[mid] < target) {
+                    start = mid + 1; // go right
+                } else {
+                    end = mid - 1;   // go left
+                }
+            } else {
+                if (arr[mid] > target) {
+                    start = mid + 1; // go right — descending
+                } else {
+                    end = mid - 1;   // go left — descending
+                }
+            }
+        }
+        return -1;
+    }
 
     // ============================================================
     // PROGRAM 2 — First Occurrence

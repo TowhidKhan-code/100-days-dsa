@@ -269,18 +269,23 @@ public class Day9BinarySearchPractice {
     }
 
 
+
+
+
     public static void main(String[] args) {
 //        int[] arr = {2, 3, 5, 6, 7, 8, 10, 11, 12, 15, 20, 23, 30};
 //        int target = 14;
 //        System.out.println(ceiling(arr, target));
 //        System.out.println(floor(arr, target));
 
-        int[] nums = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
-                21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35};
-        int target = 20;
-        System.out.println(answer(nums, target)); // prints 19
+//        int[] nums = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+//                21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35};
+//        int target = 20;
+//        System.out.println(answer(nums, target)); // prints 19
 
-//        int[] mountain = {0, 5, 10, 15, 12, 9, 3, 1};
-//        System.out.println(peakIndexInMountainArray(mountain)); // 3
+        int[] mountain = {0, 5, 10, 15, 12, 9, 3, 1};
+        System.out.println(peakIndexInMountainArray(mountain)); // 3
+
     }
 }
+
