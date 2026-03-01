@@ -26,7 +26,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 7 | Linear Search — Basic, String, 2D, All Occurrences + 7 LeetCode Problems | ✅ |
 | Day 8 | Binary Search — Iterative, First Occurrence, Last Occurrence, Count Occurrences + LC 704 | ✅ |
 | Day 9 | Binary Search Practice — Ceiling, Floor, Infinite Array, Peak Index + LC 744, 34, 852 | ✅ |
-| Day 10 | | |
+| Day 10 | Advanced Binary Search — Find Peak, Mountain Array, Rotated Array, Rotation Count, Split Array Largest Sum | ✅ |
 
 ## Topics Roadmap
 | Phase | Topics | Days | Status |
@@ -67,6 +67,7 @@ consistent daily practice — no shortcuts, no skipping days.
 - Why start = ceiling and end = floor after loop ends
 - Infinite array search — window doubling technique
 - Peak index in mountain array — brute force and binary search
+
 
 ## Programs Written So Far
 - Hello World
@@ -109,6 +110,12 @@ consistent daily practice — no shortcuts, no skipping days.
 - Floor of a Number
 - Position of Element in Infinite Sorted Array
 - Peak Index in Mountain Array — brute force and binary search
+- Find Peak Element
+- Find in Mountain Array
+- Search in Rotated Sorted Array
+- Search in Rotated Array with Duplicates
+- Rotation Count
+- Split Array Largest Sum — binary search on answers
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
@@ -124,6 +131,10 @@ consistent daily practice — no shortcuts, no skipping days.
 | 744 | Find Smallest Letter Greater Than Target | Easy |
 | 34  | Find First and Last Position in Sorted Array | Medium |
 | 852 | Peak Index in a Mountain Array | Medium |
+| 162  | Find Peak Element | Medium |
+| 33   | Search in Rotated Sorted Array | Medium |
+| 81   | Search in Rotated Sorted Array II | Medium |
+| 410  | Split Array Largest Sum | Hard |
 
 
 ## Folder Structure
