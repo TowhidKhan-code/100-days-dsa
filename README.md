@@ -28,14 +28,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 9 | Binary Search Practice — Ceiling, Floor, Infinite Array, Peak Index + LC 744, 34, 852 | ✅ |
 | Day 10 | Advanced Binary Search — Find Peak, Mountain Array, Rotated Array, Rotation Count, Split Array Largest Sum | ✅ |
 
-## Topics Roadmap
-| Phase | Topics | Days | Status |
-|-------|--------|------|--------|
-| Phase 1 | Java Fundamentals + OOP | 1 - 20 | 🔄 In Progress |
-| Phase 2 | Arrays, Recursion, Linked Lists, Stacks, Queues, Binary Search | 21 - 40 | ⏳ |
-| Phase 3 | Trees, Heaps, Graphs, Dynamic Programming | 41 - 65 | ⏳ |
-| Phase 4 | Interview Prep + Mock Interviews + Java Internals | 66 - 80 | ⏳ |
-| Phase 5 | Applying + Communication + Networking | 81 - 100 | ⏳ |
+
 
 ## Concepts Covered
 - Java Fundamentals — variables, data types, operators
