@@ -28,6 +28,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 9 | Binary Search Practice — Ceiling, Floor, Infinite Array, Peak Index + LC 744, 34, 852 | ✅ |
 | Day 10 | Advanced Binary Search — Find Peak, Mountain Array, Rotated Array, Rotation Count, Split Array Largest Sum | ✅ |
 | Day 11 | Binary Search in 2D Arrays — Row Wise Sorted, Fully Sorted + LC 74, LC 240 | ✅ |
+| Day 12 | Sorting — Bubble Sort, Selection Sort, Insertion Sort + LC 912, LC 75 | ✅ |
 
 
 
@@ -64,6 +65,11 @@ consistent daily practice — no shortcuts, no skipping days.
 - Binary search in 2D arrays — two types of sorted matrices
 - Row wise sorted matrix — top right corner approach O(m+n)
 - Fully sorted matrix — treat as 1D array, mid/cols and mid%cols
+- Bubble sort — adjacent comparison, swapped flag optimization
+- Selection sort — find max/min, swap to correct position
+- Insertion sort — insert into sorted left portion, break optimization
+- Dutch National Flag algorithm — O(n) three pointer sort
+- Stable vs unstable sorting
 
 ## Programs Written So Far
 - Hello World
@@ -114,6 +120,9 @@ consistent daily practice — no shortcuts, no skipping days.
 - Split Array Largest Sum — binary search on answers
 - Binary Search in Row Wise Sorted Matrix
 - Binary Search in Fully Sorted Matrix — two approaches
+- Bubble Sort with optimization
+- Selection Sort — both directions
+- Insertion Sort
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
@@ -135,6 +144,8 @@ consistent daily practice — no shortcuts, no skipping days.
 | 410  | Split Array Largest Sum | Hard |
 | 74  | Search a 2D Matrix | Medium |
 | 240 | Search a 2D Matrix II | Medium |
+| 912 | Sort an Array | Medium |
+| 75  | Sort Colors | Medium |
 
 
 ## Folder Structure
