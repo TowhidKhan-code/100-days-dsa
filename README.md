@@ -27,6 +27,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 8 | Binary Search — Iterative, First Occurrence, Last Occurrence, Count Occurrences + LC 704 | ✅ |
 | Day 9 | Binary Search Practice — Ceiling, Floor, Infinite Array, Peak Index + LC 744, 34, 852 | ✅ |
 | Day 10 | Advanced Binary Search — Find Peak, Mountain Array, Rotated Array, Rotation Count, Split Array Largest Sum | ✅ |
+| Day 11 | Binary Search in 2D Arrays — Row Wise Sorted, Fully Sorted + LC 74, LC 240 | ✅ |
 
 
 
@@ -60,7 +61,9 @@ consistent daily practice — no shortcuts, no skipping days.
 - Why start = ceiling and end = floor after loop ends
 - Infinite array search — window doubling technique
 - Peak index in mountain array — brute force and binary search
-
+- Binary search in 2D arrays — two types of sorted matrices
+- Row wise sorted matrix — top right corner approach O(m+n)
+- Fully sorted matrix — treat as 1D array, mid/cols and mid%cols
 
 ## Programs Written So Far
 - Hello World
@@ -109,6 +112,8 @@ consistent daily practice — no shortcuts, no skipping days.
 - Search in Rotated Array with Duplicates
 - Rotation Count
 - Split Array Largest Sum — binary search on answers
+- Binary Search in Row Wise Sorted Matrix
+- Binary Search in Fully Sorted Matrix — two approaches
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
@@ -128,6 +133,8 @@ consistent daily practice — no shortcuts, no skipping days.
 | 33   | Search in Rotated Sorted Array | Medium |
 | 81   | Search in Rotated Sorted Array II | Medium |
 | 410  | Split Array Largest Sum | Hard |
+| 74  | Search a 2D Matrix | Medium |
+| 240 | Search a 2D Matrix II | Medium |
 
 
 ## Folder Structure
