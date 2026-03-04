@@ -126,26 +126,26 @@ consistent daily practice — no shortcuts, no skipping days.
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
-|---------|-------|------------|
+|------|-------|------------|
 | 1920 | Build Array from Permutation | Easy |
 | 1480 | Running Sum of 1D Array | Easy |
 | 1929 | Concatenation of Array | Easy |
 | 1672 | Richest Customer Wealth | Easy |
 | 1295 | Find Numbers with Even Number of Digits | Easy |
-| 28 | Find Index of First Occurrence in String | Easy |
-| 35 | Search Insert Position | Easy |
-| 704 | Binary Search | Easy |
-| 744 | Find Smallest Letter Greater Than Target | Easy |
-| 34  | Find First and Last Position in Sorted Array | Medium |
-| 852 | Peak Index in a Mountain Array | Medium |
+| 28   | Find Index of First Occurrence in String | Easy |
+| 35   | Search Insert Position | Easy |
+| 704  | Binary Search | Easy |
+| 744  | Find Smallest Letter Greater Than Target | Easy |
+| 34   | Find First and Last Position in Sorted Array | Medium |
+| 852  | Peak Index in a Mountain Array | Medium |
 | 162  | Find Peak Element | Medium |
 | 33   | Search in Rotated Sorted Array | Medium |
 | 81   | Search in Rotated Sorted Array II | Medium |
 | 410  | Split Array Largest Sum | Hard |
-| 74  | Search a 2D Matrix | Medium |
-| 240 | Search a 2D Matrix II | Medium |
-| 912 | Sort an Array | Medium |
-| 75  | Sort Colors | Medium |
+| 74   | Search a 2D Matrix | Medium |
+| 240  | Search a 2D Matrix II | Medium |
+| 912  | Sort an Array | Medium |
+| 75   | Sort Colors | Medium |
 
 
 ## Folder Structure
