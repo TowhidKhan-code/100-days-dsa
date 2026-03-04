@@ -29,7 +29,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 10 | Advanced Binary Search — Find Peak, Mountain Array, Rotated Array, Rotation Count, Split Array Largest Sum | ✅ |
 | Day 11 | Binary Search in 2D Arrays — Row Wise Sorted, Fully Sorted + LC 74, LC 240 | ✅ |
 | Day 12 | Sorting — Bubble Sort, Selection Sort, Insertion Sort + LC 912, LC 75 | ✅ |
-
+| Day 13 | Cyclic Sort + LC 268, 448, 287, 442, 645, 41 | ✅ |
 
 
 ## Concepts Covered
@@ -70,6 +70,8 @@ consistent daily practice — no shortcuts, no skipping days.
 - Insertion sort — insert into sorted left portion, break optimization
 - Dutch National Flag algorithm — O(n) three pointer sort
 - Stable vs unstable sorting
+- Cyclic sort — place each number at correct index O(n)
+- Cyclic sort pattern — template for missing/duplicate problems
 
 ## Programs Written So Far
 - Hello World
@@ -123,6 +125,7 @@ consistent daily practice — no shortcuts, no skipping days.
 - Bubble Sort with optimization
 - Selection Sort — both directions
 - Insertion Sort
+- Cyclic Sort
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
@@ -146,6 +149,12 @@ consistent daily practice — no shortcuts, no skipping days.
 | 240  | Search a 2D Matrix II | Medium |
 | 912  | Sort an Array | Medium |
 | 75   | Sort Colors | Medium |
+| 268 | Missing Number | Easy |
+| 448 | Find All Numbers Disappeared in Array | Easy |
+| 645 | Set Mismatch | Easy |
+| 287 | Find the Duplicate Number | Medium |
+| 442 | Find All Duplicates in Array | Medium |
+| 41  | First Missing Positive | Hard |
 
 
 ## Folder Structure
