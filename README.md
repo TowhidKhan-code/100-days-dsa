@@ -30,6 +30,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 11 | Binary Search in 2D Arrays — Row Wise Sorted, Fully Sorted + LC 74, LC 240 | ✅ |
 | Day 12 | Sorting — Bubble Sort, Selection Sort, Insertion Sort + LC 912, LC 75 | ✅ |
 | Day 13 | Cyclic Sort + LC 268, 448, 287, 442, 645, 41 | ✅ |
+| Day 14 | Strings + StringBuilder + LC 125, LC 242 | ✅ |
 
 
 ## Concepts Covered
@@ -72,6 +73,11 @@ consistent daily practice — no shortcuts, no skipping days.
 - Stable vs unstable sorting
 - Cyclic sort — place each number at correct index O(n)
 - Cyclic sort pattern — template for missing/duplicate problems
+- String immutability and String Pool
+- String literal vs new keyword
+- == vs .equals() for String comparison
+- StringBuilder — mutable string, use in loops
+
 
 ## Programs Written So Far
 - Hello World
@@ -126,6 +132,11 @@ consistent daily practice — no shortcuts, no skipping days.
 - Selection Sort — both directions
 - Insertion Sort
 - Cyclic Sort
+- Reverse a String — two approaches
+- Check Palindrome — two pointer
+- Count Vowels
+- Count Occurrences of Character
+- Print Char Array
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
@@ -155,6 +166,8 @@ consistent daily practice — no shortcuts, no skipping days.
 | 287 | Find the Duplicate Number | Medium |
 | 442 | Find All Duplicates in Array | Medium |
 | 41  | First Missing Positive | Hard |
+| 125 | Valid Palindrome | Medium |
+| 242 | Valid Anagram | Easy |
 
 
 ## Folder Structure
