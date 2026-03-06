@@ -31,6 +31,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 12 | Sorting — Bubble Sort, Selection Sort, Insertion Sort + LC 912, LC 75 | ✅ |
 | Day 13 | Cyclic Sort + LC 268, 448, 287, 442, 645, 41 | ✅ |
 | Day 14 | Strings + StringBuilder + LC 125, LC 242 | ✅ |
+| Day 15 | Patterns| ✅ |
 
 
 ## Concepts Covered
@@ -77,6 +78,9 @@ consistent daily practice — no shortcuts, no skipping days.
 - String literal vs new keyword
 - == vs .equals() for String comparison
 - StringBuilder — mutable string, use in loops
+- Nested loops for pattern programs
+- Diamond/pyramid trick — one ternary for both halves
+
 
 
 ## Programs Written So Far
@@ -137,6 +141,8 @@ consistent daily practice — no shortcuts, no skipping days.
 - Count Vowels
 - Count Occurrences of Character
 - Print Char Array
+- Square, Right Triangle, Inverted Triangle, Number Triangle
+- Diamond, Pyramid, Number Pyramid (bonus)
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
@@ -168,6 +174,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | 41  | First Missing Positive | Hard |
 | 125 | Valid Palindrome | Medium |
 | 242 | Valid Anagram | Easy |
+
 
 
 ## Folder Structure
