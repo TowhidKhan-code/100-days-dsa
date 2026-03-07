@@ -32,6 +32,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 13 | Cyclic Sort + LC 268, 448, 287, 442, 645, 41 | ✅ |
 | Day 14 | Strings + StringBuilder + LC 125, LC 242 | ✅ |
 | Day 15 | Patterns| ✅ |
+| Day 16 | Recursion — Fibonacci, Binary Search Recursive | ✅ |
 
 
 ## Concepts Covered
@@ -80,6 +81,11 @@ consistent daily practice — no shortcuts, no skipping days.
 - StringBuilder — mutable string, use in loops
 - Nested loops for pattern programs
 - Diamond/pyramid trick — one ternary for both halves
+- Stack frames and memory management in recursion
+- Base condition and recursive case
+- Recursion tree visualization
+- Tail recursion
+- Recurrence relation T(n) = T(n/2) + O(1)
 
 
 
@@ -142,7 +148,12 @@ consistent daily practice — no shortcuts, no skipping days.
 - Count Occurrences of Character
 - Print Char Array
 - Square, Right Triangle, Inverted Triangle, Number Triangle
-- Diamond, Pyramid, Number Pyramid (bonus)
+- Diamond, Pyramid, Number Pyramid
+- Message chain (Ex1)
+- Number chain (Ex2)
+- Recursive print
+- Fibonacci recursive
+- Binary search recursive
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
