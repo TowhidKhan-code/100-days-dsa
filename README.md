@@ -33,6 +33,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 14 | Strings + StringBuilder + LC 125, LC 242 | ✅ |
 | Day 15 | Patterns| ✅ |
 | Day 16 | Recursion — Fibonacci, Binary Search Recursive | ✅ |
+| Day 17 | Time & Space Complexity — Asymptotic Notations, Recurrence Relations, Master Theorem | ✅ |
 
 
 ## Concepts Covered
@@ -86,6 +87,15 @@ consistent daily practice — no shortcuts, no skipping days.
 - Recursion tree visualization
 - Tail recursion
 - Recurrence relation T(n) = T(n/2) + O(1)
+- Time complexity analysis procedure
+- Big-O, Big-Omega, Big-Theta, Little-O, Little-Omega
+- Space complexity — auxiliary vs total, recursive space
+- Sorting algorithm complexities
+- Recurrence relations — divide and conquer, linear, homogeneous, non-homogeneous
+- Master theorem — three cases
+- Akra-Bazzi theorem
+- Fibonacci golden ratio closed form O(1)
+- NP-Complete problems — P vs NP
 
 
 
