@@ -34,6 +34,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 15 | Patterns| ✅ |
 | Day 16 | Recursion — Fibonacci, Binary Search Recursive | ✅ |
 | Day 17 | Time & Space Complexity — Asymptotic Notations, Recurrence Relations, Master Theorem | ✅ |
+| Day 18 | Bit Manipulation — Number Systems, Base Conversion, Two's Complement | ✅ |
 
 
 ## Concepts Covered
@@ -95,7 +96,12 @@ consistent daily practice — no shortcuts, no skipping days.
 - Master theorem — three cases
 - Akra-Bazzi theorem
 - Fibonacci golden ratio closed form O(1)
-- NP-Complete problems — P vs NP
+- Bitwise operators — AND, OR, XOR, NOT, left shift, right shift
+- Number systems — binary, octal, decimal, hexadecimal
+- Base conversion — decimal↔binary, decimal↔hex
+- Two's complement — negative number representation
+- Range of numbers — byte, short, int, long
+- Integer overflow and safe mid formula
 
 
 
@@ -164,6 +170,11 @@ consistent daily practice — no shortcuts, no skipping days.
 - Recursive print
 - Fibonacci recursive
 - Binary search recursive
+- isOdd() — n & 1 bit trick
+- findUnique() — XOR cancellation
+- nonNegative() — sum cancellation
+- magicNumber() — base conversion using bits
+- noOfDigits() — log formula
 
 ## LeetCode Solved
 | Problem | Title | Difficulty |
