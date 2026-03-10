@@ -23,199 +23,29 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 4 | Methods + Return Values + Parameters + Scope + Shadowing + VarArgs + Method Overloading + Pass by Value | ✅ |
 | Day 5 | Arrays — Internal Working + null + String Arrays + for-each + toString + Array of Objects + Heap Storage + Array in Functions + 2D Arrays + ArrayList + Array Functions | ✅ |
 | Day 6 | Array Practice — Input/Output, Max/Min, Sum/Average, Reverse, Linear Search, Count Occurrences, Move Zeros, 2D Array, Row Wise Sum | ✅ |
-| Day 7 | Linear Search — Basic, String, 2D, All Occurrences + 7 LeetCode Problems | ✅ |
-| Day 8 | Binary Search — Iterative, First Occurrence, Last Occurrence, Count Occurrences + LC 704 | ✅ |
+| Day 7 | Linear Search — Basic, String, 2D, All Occurrences + LC 1920, 1480, 1929, 1672, 1295, 28, 35 | ✅ |
+| Day 8 | Binary Search — Iterative, First/Last Occurrence, Count Occurrences + LC 704 | ✅ |
 | Day 9 | Binary Search Practice — Ceiling, Floor, Infinite Array, Peak Index + LC 744, 34, 852 | ✅ |
-| Day 10 | Advanced Binary Search — Find Peak, Mountain Array, Rotated Array, Rotation Count, Split Array Largest Sum | ✅ |
-| Day 11 | Binary Search in 2D Arrays — Row Wise Sorted, Fully Sorted + LC 74, LC 240 | ✅ |
-| Day 12 | Sorting — Bubble Sort, Selection Sort, Insertion Sort + LC 912, LC 75 | ✅ |
+| Day 10 | Advanced Binary Search — Peak Element, Mountain Array, Rotated Array, Rotation Count, Split Array + LC 162, 33, 81, 410 | ✅ |
+| Day 11 | Binary Search in 2D Arrays — Row Wise Sorted, Fully Sorted + LC 74, 240 | ✅ |
+| Day 12 | Sorting — Bubble, Selection, Insertion, Dutch National Flag + LC 912, 75 | ✅ |
 | Day 13 | Cyclic Sort + LC 268, 448, 287, 442, 645, 41 | ✅ |
-| Day 14 | Strings + StringBuilder + LC 125, LC 242 | ✅ |
-| Day 15 | Patterns| ✅ |
-| Day 16 | Recursion — Fibonacci, Binary Search Recursive | ✅ |
-| Day 17 | Time & Space Complexity — Asymptotic Notations, Recurrence Relations, Master Theorem | ✅ |
-| Day 18 | Bit Manipulation — Number Systems, Base Conversion, Two's Complement | ✅ |
-
-
-## Concepts Covered
-- Java Fundamentals — variables, data types, operators
-- Type casting and type promotion
-- Scanner input with buffer flush fix
-- Conditionals — if/else, switch with fall-through
-- Loops — for, while, do-while, break, continue
-- Methods — definition, return types, parameters
-- Pass by Value — why primitives and Strings dont change
-- String immutability
-- Scope — method, block, loop
-- Variable shadowing
-- VarArgs
-- Method overloading — compile time polymorphism
-- Arrays — fixed size, contiguous memory, O(1) access
-- null in Java — NullPointerException
-- String arrays
-- for-each loop
-- Arrays.toString() and deepToString()
-- Array of objects — reference storage in Heap
-- Array passing in functions — why original changes
-- 2D arrays and jagged arrays
-- ArrayList — dynamic resizing, autoboxing
-- Built-in Array functions — sort, search, fill, copy
-- Linear search — basic, string, 2D, all occurrences
-- Binary search — iterative, first/last occurrence, count occurrences
-- Safe mid formula — low + (high - low) / 2
-- Ceiling and floor using binary search
-- Why start = ceiling and end = floor after loop ends
-- Infinite array search — window doubling technique
-- Peak index in mountain array — brute force and binary search
-- Binary search in 2D arrays — two types of sorted matrices
-- Row wise sorted matrix — top right corner approach O(m+n)
-- Fully sorted matrix — treat as 1D array, mid/cols and mid%cols
-- Bubble sort — adjacent comparison, swapped flag optimization
-- Selection sort — find max/min, swap to correct position
-- Insertion sort — insert into sorted left portion, break optimization
-- Dutch National Flag algorithm — O(n) three pointer sort
-- Stable vs unstable sorting
-- Cyclic sort — place each number at correct index O(n)
-- Cyclic sort pattern — template for missing/duplicate problems
-- String immutability and String Pool
-- String literal vs new keyword
-- == vs .equals() for String comparison
-- StringBuilder — mutable string, use in loops
-- Nested loops for pattern programs
-- Diamond/pyramid trick — one ternary for both halves
-- Stack frames and memory management in recursion
-- Base condition and recursive case
-- Recursion tree visualization
-- Tail recursion
-- Recurrence relation T(n) = T(n/2) + O(1)
-- Time complexity analysis procedure
-- Big-O, Big-Omega, Big-Theta, Little-O, Little-Omega
-- Space complexity — auxiliary vs total, recursive space
-- Sorting algorithm complexities
-- Recurrence relations — divide and conquer, linear, homogeneous, non-homogeneous
-- Master theorem — three cases
-- Akra-Bazzi theorem
-- Fibonacci golden ratio closed form O(1)
-- Bitwise operators — AND, OR, XOR, NOT, left shift, right shift
-- Number systems — binary, octal, decimal, hexadecimal
-- Base conversion — decimal↔binary, decimal↔hex
-- Two's complement — negative number representation
-- Range of numbers — byte, short, int, long
-- Integer overflow and safe mid formula
-
-
-
-## Programs Written So Far
-- Hello World
-- Variables and Data Types
-- User Input with Scanner
-- Type Casting and Type Promotion
-- All Operators + Shorthand
-- Swap Two Numbers Without Third Variable
-- Even or Odd using Ternary
-- Biggest of Two Numbers
-- Grade Checker
-- Multiplication Table
-- Reverse a Number
-- FizzBuzz
-- Calculator using Switch
-- All 4 types of Methods
-- Factorial using Method
-- Prime Checker using Method
-- Method Overloading — multiply
-- Pass by Value demonstration
-- Array Input and Output
-- Find Max and Min in Array
-- Sum and Average of Array
-- Reverse an Array — two pointer
-- Check if Array is Sorted
-- Count Occurrences
-- Linear Search
-- Move Zeros to End
-- 2D Array Input and Output
-- Row Wise Sum of 2D Array
-- Linear Search — Basic, String Array, 2D Array
-- Find All Occurrences using ArrayList
-- Search in Range
-- Find Minimum and Its Index
-- Binary Search Iterative
-- First Occurrence in Sorted Array
-- Last Occurrence in Sorted Array
-- Count Occurrences using First and Last
-- Ceiling of a Number
-- Floor of a Number
-- Position of Element in Infinite Sorted Array
-- Peak Index in Mountain Array — brute force and binary search
-- Find Peak Element
-- Find in Mountain Array
-- Search in Rotated Sorted Array
-- Search in Rotated Array with Duplicates
-- Rotation Count
-- Split Array Largest Sum — binary search on answers
-- Binary Search in Row Wise Sorted Matrix
-- Binary Search in Fully Sorted Matrix — two approaches
-- Bubble Sort with optimization
-- Selection Sort — both directions
-- Insertion Sort
-- Cyclic Sort
-- Reverse a String — two approaches
-- Check Palindrome — two pointer
-- Count Vowels
-- Count Occurrences of Character
-- Print Char Array
-- Square, Right Triangle, Inverted Triangle, Number Triangle
-- Diamond, Pyramid, Number Pyramid
-- Message chain (Ex1)
-- Number chain (Ex2)
-- Recursive print
-- Fibonacci recursive
-- Binary search recursive
-- isOdd() — n & 1 bit trick
-- findUnique() — XOR cancellation
-- nonNegative() — sum cancellation
-- magicNumber() — base conversion using bits
-- noOfDigits() — log formula
-
-## LeetCode Solved
-| Problem | Title | Difficulty |
-|------|-------|------------|
-| 1920 | Build Array from Permutation | Easy |
-| 1480 | Running Sum of 1D Array | Easy |
-| 1929 | Concatenation of Array | Easy |
-| 1672 | Richest Customer Wealth | Easy |
-| 1295 | Find Numbers with Even Number of Digits | Easy |
-| 28   | Find Index of First Occurrence in String | Easy |
-| 35   | Search Insert Position | Easy |
-| 704  | Binary Search | Easy |
-| 744  | Find Smallest Letter Greater Than Target | Easy |
-| 34   | Find First and Last Position in Sorted Array | Medium |
-| 852  | Peak Index in a Mountain Array | Medium |
-| 162  | Find Peak Element | Medium |
-| 33   | Search in Rotated Sorted Array | Medium |
-| 81   | Search in Rotated Sorted Array II | Medium |
-| 410  | Split Array Largest Sum | Hard |
-| 74   | Search a 2D Matrix | Medium |
-| 240  | Search a 2D Matrix II | Medium |
-| 912  | Sort an Array | Medium |
-| 75   | Sort Colors | Medium |
-| 268 | Missing Number | Easy |
-| 448 | Find All Numbers Disappeared in Array | Easy |
-| 645 | Set Mismatch | Easy |
-| 287 | Find the Duplicate Number | Medium |
-| 442 | Find All Duplicates in Array | Medium |
-| 41  | First Missing Positive | Hard |
-| 125 | Valid Palindrome | Medium |
-| 242 | Valid Anagram | Easy |
-
-
+| Day 14 | Strings + StringBuilder + LC 125, 242 | ✅ |
+| Day 15 | Patterns + LC 409 | ✅ |
+| Day 16 | Recursion — Stack Frames, Base Condition, Fibonacci, Binary Search Recursive | ✅ |
+| Day 17 | Time & Space Complexity — Big-O, Recurrence Relations, Master Theorem, NP-Complete | ✅ |
+| Day 18 | Bit Manipulation — Operators, Number Systems, Two's Complement, 14 Questions + LC 832 | ✅ |
+| Day 19 | Maths for DSA — Prime, Sieve, Square Root, Factors, GCD, LCM, Modulo | ✅ |
 
 ## Folder Structure
 ```
 src/
 ├── javabasics/         ← Variables, Operators, Loops, Conditionals, Methods, Arrays
-├── oop/                ← Classes, Objects, Inheritance, Polymorphism
 ├── arrays/             ← Array DSA problems
-├── recursion/          ← Recursion and Backtracking
+├── strings/            ← String problems and patterns
+├── recursion/          ← Recursion problems
+├── bitmanipulation/    ← Bit manipulation and maths
+├── oop/                ← Classes, Objects, Inheritance, Polymorphism
 ├── linkedlists/        ← Linked List problems
 ├── stacksqueues/       ← Stack and Queue problems
 ├── trees/              ← Binary Tree and BST problems
@@ -224,7 +54,7 @@ src/
 ```
 
 ## Current Skills
-- Java (Learning — Day 5)
+- Java (Intermediate — Day 19)
 - HTML + CSS (Basics)
 - SQL (Basics)
 - Git + GitHub
@@ -232,6 +62,7 @@ src/
 ## Connect With Me
 - LinkedIn: [www.linkedin.com/in/towhid-khan-320b5734b](www.linkedin.com/in/towhid-khan-320b5734b)
 - GitHub: [github.com/TowhidKhan-code/100-days-dsa](https://github.com/TowhidKhan-code/100-days-dsa)
+- LeetCode: [leetcode.com/u/TowhidKhan](https://leetcode.com/u/TowhidKhan)
 
 ---
 *Started: February 2026 | Target: 100 days of consistency*
