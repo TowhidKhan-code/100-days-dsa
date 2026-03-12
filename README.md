@@ -36,6 +36,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 17 | Time & Space Complexity — Big-O, Recurrence Relations, Master Theorem, NP-Complete | ✅ |
 | Day 18 | Bit Manipulation — Operators, Number Systems, Two's Complement, 14 Questions + LC 832 | ✅ |
 | Day 19 | Maths for DSA — Prime, Sieve, Square Root, Factors, GCD, LCM, Modulo | ✅ |
+| Day 20 | Recursion Level 1 — Print n↔1, Factorial, Sum, Digit Sum/Product, Reverse (2 ways), Palindrome, Count Zeros, Count Steps | ✅ |
 
 ## Folder Structure
 ```
