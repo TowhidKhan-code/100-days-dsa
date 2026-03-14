@@ -39,7 +39,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 20 | Recursion Level 1 — Print n↔1, Factorial, Sum, Digit Sum/Product, Reverse (2 ways), Palindrome, Count Zeros, Count Steps | ✅ |
 | Day 21 | Recursion Arrays + Sorting — isSorted, Linear Search, ArrayList (2 ways), Rotated Binary Search, Patterns, Bubble Sort, Selection Sort | ✅ |
 | Day 22 | Merge Sort — Recursive, Merge Step, In-place, Time/Space Complexity, Akra-Bazzi | ✅ |
-
+| Day 23 | Quick Sort — Hoare's Partition, Pivot Strategies, Complexity, Hybrid Sorting, Java Internal Sort | ✅ |
 
 
 ## Folder Structure
