@@ -42,6 +42,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 23 | Quick Sort — Hoare's Partition, Pivot Strategies, Complexity, Hybrid Sorting, Java Internal Sort | ✅ |
 | Day 24 | Recursion — Skip Char/String, Subsequences, Subsets (Iterative + Duplicates), ASCII | ✅ |
 | Day 25 | Recursion — Permutations (print/list/count), LC 17 Letter Combinations, LC 1155 Dice Rolls | ✅ |
+| Day 26 | Backtracking — Count/Print Paths, Diagonal, Obstacles, All Paths (4 directions), Matrix Path | ✅ |
 
 ## Folder Structure
 ```
