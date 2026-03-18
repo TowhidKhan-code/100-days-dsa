@@ -43,6 +43,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 24 | Recursion — Skip Char/String, Subsequences, Subsets (Iterative + Duplicates), ASCII | ✅ |
 | Day 25 | Recursion — Permutations (print/list/count), LC 17 Letter Combinations, LC 1155 Dice Rolls | ✅ |
 | Day 26 | Backtracking — Count/Print Paths, Diagonal, Obstacles, All Paths (4 directions), Matrix Path | ✅ |
+| Day 27 | Backtracking — N-Queens, N-Knights, LC 37 Sudoku Solver | ✅ |
 
 ## Folder Structure
 ```
