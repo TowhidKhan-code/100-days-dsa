@@ -46,6 +46,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 27 | Backtracking — N-Queens, N-Knights, LC 37 Sudoku Solver | ✅ |
 | Day 28 | OOP 1 — Classes, Objects, Constructors, this keyword, Wrapper Classes, final, Garbage Collection | ✅ |
 | Day 29 | OOP 2 — Packages, Import, Static, Inner Classes, toString, Singleton | ✅ |
+| Day 30 | OOP 3 — Inheritance, super, Polymorphism, Overloading, Overriding, Encapsulation, Abstraction | ✅ |
 
 ## Folder Structure
 ```
