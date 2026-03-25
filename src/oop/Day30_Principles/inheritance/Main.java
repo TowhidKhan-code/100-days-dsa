@@ -15,6 +15,12 @@ public class Main {
 //        Box box5 = new BoxWeight(2, 3, 4, 8);
 //        System.out.println(box5.w);
 
+        /*
+        Important Rule:
+        Reference type decides what members you can access.
+        Actual object type decides which overridden method runs.
+        */
+
         // there are many variables in both parent and child classes
         // you are given access to variables that are in the ref type i.e. BoxWeight
         // hence, you should have access to weight variable
@@ -26,7 +32,33 @@ public class Main {
 
 //        Box.greeting();
 
-        BoxWeight box = new BoxWeight();
+        BoxWeight box6 = new BoxWeight();
         BoxWeight.greeting(); // you can inherit but you cannot override
+
+        /*
+        ============================================================
+        DEMONSTRATING STATIC METHOD HIDING
+        ============================================================
+        */
+
+        // Case 1: Reference and Object both of child type
+        BoxWeight boxWeight = new BoxWeight();
+        boxWeight.greeting();                    // Output: BoxWeight class greeting
+
+        // Case 2: Reference of parent type, Object of child type
+        Box box = new BoxWeight();               // Upcasting
+        box.greeting();                          // Output: Box class greeting
+        // → Even though actual object is BoxWeight, parent's static method is called
+        // because static methods are resolved based on REFERENCE TYPE at compile time.
+
+        // Case 3: Direct class call
+        Box.greeting();                          // Box class
+        BoxWeight.greeting();                    // BoxWeight class
+
+        /*
+        Important Summary:
+        - For Instance methods → Runtime Polymorphism (Overriding) → decided by object type
+        - For Static methods   → Static Method Hiding          → decided by reference type
+        */
     }
 }

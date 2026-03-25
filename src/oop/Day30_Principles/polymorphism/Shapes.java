@@ -1,5 +1,17 @@
 package oop.Day30_Principles.polymorphism;
 
+/*
+    ============================================================
+    POLYMORPHISM
+    Polymorphism means "many forms".
+    It allows the same method name to behave differently based on the object.
+
+    Two Types:
+    1. Compile-time Polymorphism (Method Overloading)
+    2. Runtime Polymorphism (Method Overriding)
+    ============================================================
+    */
+
 public class Shapes {
     void area() {
         System.out.println("I am in shapes");

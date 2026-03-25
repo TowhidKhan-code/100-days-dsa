@@ -1,18 +1,36 @@
 package oop.Day31.access;
 
-import java.util.ArrayList;
+/*
+============================================================
+DAY 31 - Main Class to demonstrate Access Modifiers
+============================================================
+*/
 
 public class Main {
     public static void main(String[] args) {
-        A obj = new A(10, "Towhid",20000);
-        // need to do a few things
-        // 1. access the data members
-        // 2. modify the data members
+        /*
+        ============================================================
+        ACCESSING AND MODIFYING MEMBERS
+        - We can access/modify members based on their access level
+        - private members can only be accessed via getters/setters
+        ============================================================
+        */
 
-//        ArrayList<Integer> list = new ArrayList<>(23);
-//        list.DEFAULT_CAPACITY;
+        A obj = new A(10, "Towhid", 20000);
 
+        // Accessing members
+        int n = obj.num;           // protected → allowed (same package)
+        String s = obj.name;       // public → allowed
+        // int i = obj.income;     // private → compile error
 
-        int n = obj.num;
+        // Modifying members
+        obj.num = 50;
+        obj.name = "Rahim";
+        // obj.income = 50000;    // private → not allowed
+
+        // Using getter and setter (best practice for private fields)
+        System.out.println("Current Income: " + obj.getIncome());
+        obj.setIncome(25000);
+        System.out.println("Updated Income: " + obj.getIncome());
     }
 }

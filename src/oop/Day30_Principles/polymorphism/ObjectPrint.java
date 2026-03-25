@@ -1,5 +1,13 @@
 package oop.Day30_Principles.polymorphism;
 
+/*
+    ============================================================
+    OVERRIDING toString()
+    By default, Object.toString() prints class name + hashcode.
+    We override it to return meaningful information.
+    ============================================================
+    */
+
 public class ObjectPrint {
 
     int num;

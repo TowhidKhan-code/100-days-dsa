@@ -1,12 +1,16 @@
 package oop.Day30_Principles.inheritance;
 
-// Multi-Level Inheritance
-public class BoxPrice extends BoxWeight{
+/*
+============================================================
+DAY 30 - Multilevel Inheritance - BoxPrice extends BoxWeight
+============================================================
+*/
+
+public class BoxPrice extends BoxWeight {
 
     double cost;
 
-    BoxPrice () {
-        //this refers to the class directly above it, i.e. BoxWeight
+    BoxPrice() {
         super();
         this.cost = -1;
     }
@@ -25,5 +29,4 @@ public class BoxPrice extends BoxWeight{
         super(side, weight);
         this.cost = cost;
     }
-
 }

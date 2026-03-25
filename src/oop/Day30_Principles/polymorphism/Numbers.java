@@ -1,5 +1,13 @@
 package oop.Day30_Principles.polymorphism;
 
+/*
+    ============================================================
+    METHOD OVERLOADING
+    Same method name, different parameters (number, type, or order).
+    Resolved at compile time → Compile-time Polymorphism
+    ============================================================
+    */
+
 public class Numbers {
 
     //Method overloading
