@@ -46,7 +46,9 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 27 | Backtracking — N-Queens, N-Knights, LC 37 Sudoku Solver | ✅ |
 | Day 28 | OOP 1 — Classes, Objects, Constructors, this keyword, Wrapper Classes, final, Garbage Collection | ✅ |
 | Day 29 | OOP 2 — Packages, Import, Static, Inner Classes, toString, Singleton | ✅ |
-| Day 30 | OOP 3 — Inheritance, super, Polymorphism, Overloading, Overriding, Encapsulation, Abstraction | ✅ |
+| Day 30 | OOP 3 — Inheritance (Box/BoxWeight/BoxPrice), Polymorphism, Overloading, Overriding, final, Static Hiding | ✅ |
+| Day 31 | OOP 4 — Access Modifiers, In-built Packages, Object Class, equals, hashCode, instanceof, getClass | ✅ |
+| Day 32 | OOP 5 — Abstract Classes, Interfaces, Multiple Inheritance, Default/Static Methods, Nested Interfaces | ✅ |
 
 ## Folder Structure
 ```
