@@ -49,6 +49,9 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 30 | OOP 3 — Inheritance (Box/BoxWeight/BoxPrice), Polymorphism, Overloading, Overriding, final, Static Hiding | ✅ |
 | Day 31 | OOP 4 — Access Modifiers, In-built Packages, Object Class, equals, hashCode, instanceof, getClass | ✅ |
 | Day 32 | OOP 5 — Abstract Classes, Interfaces, Multiple Inheritance, Default/Static Methods, Nested Interfaces | ✅ |
+| Day 33 | Generics — Custom Generic Classes, Bounded Types, Wildcards, Type Erasure, Generic Interfaces & Methods | ✅     |
+| Day 34 | Collections Framework + Vector + Enums — Introduction to Collections, Vector, Enum Basics, Enum with Constructors & Interfaces | ✅     |
+| Day 35 | Linked Lists — Singly Linked List, Doubly Linked List, Circular Linked List (Full Implementation with Insert, Delete, Display) | ✅     |
 
 ## Folder Structure
 ```
