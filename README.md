@@ -53,6 +53,10 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 34 | Collections Framework + Vector + Enums — Introduction to Collections, Vector, Enum Basics, Enum with Constructors & Interfaces | ✅     |
 | Day 35 | Linked Lists — Singly Linked List, Doubly Linked List, Circular Linked List (Full Implementation with Insert, Delete, Display) | ✅     |
 | Day 36 | LinkedList Problems — Floyd's Cycle Detection Algorithm + 6 LeetCode Problems (LC 83, 21, 141, 142, 202, 876) | ✅     |
+| Day 37 | LinkedList Part 2 — Merge Sort (LC 148), Reverse Recursive & Iterative (LC 206), Reverse Between (LC 92), Palindrome (LC 234), Reorder List (LC 143), Reverse K-Group (LC 25), Rotate List (LC 61) | ✅     |
+
+
+
 ## Folder Structure
 ```
 src/
