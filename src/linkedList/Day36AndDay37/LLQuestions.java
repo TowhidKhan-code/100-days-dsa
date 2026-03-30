@@ -1,6 +1,6 @@
 package linkedList.Day36AndDay37;
 
-public class Day36LLQuestionPart1 {
+public class LLQuestions {
 
     /*
     ============================================================
@@ -25,7 +25,7 @@ public class Day36LLQuestionPart1 {
     private Node tail;
     private int size;
 
-    public Day36LLQuestionPart1() {
+    public LLQuestions() {
         this.size = 0;
     }
 
@@ -299,10 +299,10 @@ public class Day36LLQuestionPart1 {
     // List2: 2 -> 4 -> 6
     // Result: 1 -> 2 -> 3 -> 4 -> 5 -> 6
     // ============================================================
-    public static Day36LLQuestionPart1 merge(Day36LLQuestionPart1 list1, Day36LLQuestionPart1 list2) {
+    public static LLQuestions merge(LLQuestions list1, LLQuestions list2) {
         Node head1 = list1.head;
         Node head2 = list2.head;
-        Day36LLQuestionPart1 ans = new Day36LLQuestionPart1();
+        LLQuestions ans = new LLQuestions();
 
         while (head1 != null && head2 != null) {
             if (head1.value < head2.value) {
@@ -580,7 +580,7 @@ public class Day36LLQuestionPart1 {
     // ============================================================
     public static void main(String[] args) {
         // Test Remove Duplicates
-        Day36LLQuestionPart1 list = new Day36LLQuestionPart1();
+        LLQuestions list = new LLQuestions();
         list.insertLast(1);
         list.insertLast(1);
         list.insertLast(2);
@@ -595,12 +595,12 @@ public class Day36LLQuestionPart1 {
         System.out.println();
 
         // Test Merge Two Lists
-        Day36LLQuestionPart1 list1 = new Day36LLQuestionPart1();
+        LLQuestions list1 = new LLQuestions();
         list1.insertLast(1);
         list1.insertLast(3);
         list1.insertLast(5);
 
-        Day36LLQuestionPart1 list2 = new Day36LLQuestionPart1();
+        LLQuestions list2 = new LLQuestions();
         list2.insertLast(2);
         list2.insertLast(4);
         list2.insertLast(6);
@@ -610,7 +610,7 @@ public class Day36LLQuestionPart1 {
         System.out.println("List 2:");
         list2.display();
 
-        Day36LLQuestionPart1 merged = Day36LLQuestionPart1.merge(list1, list2);
+        LLQuestions merged = LLQuestions.merge(list1, list2);
         System.out.println("Merged:");
         merged.display();
 
