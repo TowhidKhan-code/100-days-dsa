@@ -109,4 +109,16 @@ public class CustomStack<T> {
     public int size() {
         return ptr + 1;
     }
+
+    public void display() {
+        if (isEmpty()) {
+            System.out.println("EMPTY STACK");
+            return;
+        }
+        System.out.print("TOP -> ");
+        for (int i = ptr; i >= 0; i--) {
+            System.out.print(data[i] + " -> ");
+        }
+        System.out.println("BOTTOM");
+    }
 }
