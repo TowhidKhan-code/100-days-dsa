@@ -57,6 +57,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 38 | Stacks & Queues — Stack (LIFO), Queue (FIFO), Custom Stack, Dynamic Stack, Custom Queue, Circular Queue, Dynamic Queue, Generic Implementations | ✅     |
 | Day 39 | Stack & Queue Problems — Queue Using Stacks (LC 232), Valid Parentheses (LC 20), Min Add Parentheses (LC 921), Largest Rectangle Histogram (LC 84), Game of Two Stacks, Monotonic Stack Pattern | ✅     |
 | Day 40 | Tic-Tac-Toe Game — 2D Arrays, Game State Management, Win Detection Logic, Player Switching, Console-Based Gameplay | ✅     |
+| Day 41 | Trees — Binary Tree, BST Implementation, Tree Properties, Traversals (Preorder/Inorder/Postorder), Balance Checking | ✅     |
 
 
 
