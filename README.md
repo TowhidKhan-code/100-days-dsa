@@ -59,7 +59,7 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 40 | Tic-Tac-Toe Game — 2D Arrays, Game State Management, Win Detection Logic, Player Switching, Console-Based Gameplay | ✅     |
 | Day 41 | Trees — Binary Tree, BST Implementation, Tree Properties, Traversals (Preorder/Inorder/Postorder), Balance Checking | ✅     |
 | Day 42 | AVL Trees — Self-Balancing BST, Balance Factor, Four Rotation Cases (LL/LR/RR/RL), Right & Left Rotations, O(log n) Guaranteed Height | ✅     |
-
+| Day 43 | Segment Trees — Range Query Data Structure, Tree Construction, Query Operation (Complete/Partial/No Overlap), Point Updates with Propagation, O(log n) Queries & Updates | ✅     |
 
 
 ## Folder Structure
