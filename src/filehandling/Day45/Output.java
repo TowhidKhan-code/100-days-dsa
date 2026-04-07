@@ -29,7 +29,7 @@ class Output {
         }
 
         try (BufferedWriter bw = new BufferedWriter(new FileWriter("note.txt"))) {
-            bw.write("Hare Krishna");
+            bw.write("hello there!");
         } catch (IOException e) {
             System.out.println(e.getMessage());
         }
