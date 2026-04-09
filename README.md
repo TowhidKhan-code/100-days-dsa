@@ -62,6 +62,8 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 43 | Segment Trees — Range Query Data Structure, Tree Construction, Query Operation (Complete/Partial/No Overlap), Point Updates with Propagation, O(log n) Queries & Updates | ✅     |
 | Day 44 | BigInteger, BigDecimal & StringBuilder — Arbitrary Precision Integers, Exact Decimals, Mutable Strings, StringBuffer, Random String Generation, DecimalFormat | ✅     |
 | Day 45 | File Handling — Byte & Character Streams, FileReader, BufferedReader, FileWriter, BufferedWriter, File Class, try-with-resources, Stream Hierarchy | ✅     |
+| Day 46 | Trees BFS — LC 102, 637, Level Order Successor, LC 103 Zigzag, 107, 116, 199, 993, 101 | ✅ |
+| Day 47 | Trees DFS — Diameter, Invert, MaxDepth, Flatten, Valid BST, LCA, Kth Smallest, Build Tree, Path Sum Problems | ✅ |
 
 
 ## Folder Structure
