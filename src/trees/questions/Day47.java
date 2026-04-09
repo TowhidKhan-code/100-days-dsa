@@ -114,7 +114,7 @@ public class Day47 {
             return false;
         }
 
-        if(low!=null && node.val>=high){
+        if(high!=null && node.val>=high){
             return false;
         }
 
