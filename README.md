@@ -64,6 +64,8 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 45 | File Handling — Byte & Character Streams, FileReader, BufferedReader, FileWriter, BufferedWriter, File Class, try-with-resources, Stream Hierarchy | ✅     |
 | Day 46 | Trees BFS — LC 102, 637, Level Order Successor, LC 103 Zigzag, 107, 116, 199, 993, 101 | ✅ |
 | Day 47 | Trees DFS — Diameter, Invert, MaxDepth, Flatten, Valid BST, LCA, Kth Smallest, Build Tree, Path Sum Problems | ✅ |
+| Day 48 | Heaps — Theory, Heapify Up/Down, Build Heap O(n), HeapSort, Priority Queue | ✅ |
+| Day 49 | HashMap — Hashing, Collision, Chaining, Open Addressing, Custom Implementation| ✅ |
 
 
 ## Folder Structure
