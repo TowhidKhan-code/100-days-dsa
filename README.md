@@ -66,6 +66,8 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 47 | Trees DFS — Diameter, Invert, MaxDepth, Flatten, Valid BST, LCA, Kth Smallest, Build Tree, Path Sum Problems | ✅ |
 | Day 48 | Heaps — Theory, Heapify Up/Down, Build Heap O(n), HeapSort, Priority Queue | ✅ |
 | Day 49 | HashMap — Hashing, Collision, Chaining, Open Addressing, Custom Implementation| ✅ |
+| Day 50 | Rabin-Karp Algorithm —  String Matching | ✅ |
+| Day 51 | Advanced Sorting — Counting Sort (Array + HashMap), Radix Sort, Non-Comparison Based Sorting | ✅ |
 
 
 ## Folder Structure

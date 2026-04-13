@@ -1,4 +1,4 @@
-package hashmaps;
+package hashmaps.Day49;
 
 import java.util.*;
 
