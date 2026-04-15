@@ -68,6 +68,8 @@ consistent daily practice — no shortcuts, no skipping days.
 | Day 49 | HashMap — Hashing, Collision, Chaining, Open Addressing, Custom Implementation| ✅ |
 | Day 50 | Rabin-Karp Algorithm —  String Matching | ✅ |
 | Day 51 | Advanced Sorting — Counting Sort (Array + HashMap), Radix Sort, Non-Comparison Based Sorting | ✅ |
+| Day 52 | Advanced Algorithms — Huffman Coding , SQRT Decomposition (Range Queries) | ✅ |
+| Day 53 | Advanced Trees — Build Tree from Traversals (LC 105), Vertical Traversal (LC 987), Word Ladder (LC 127), Two Sum BST (LC 653), Kth Smallest (LC 230), BST to DLL, Recover BST |	✅ |
 
 
 ## Folder Structure
