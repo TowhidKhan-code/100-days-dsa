@@ -4,7 +4,7 @@ public class DoublyLinkedList {
     Node head;
     Node tail;
 
-    public TreeNode convert(TreeNode root) {
+    public Node convert(TreeNode root) {
         if (root == null) {
             return null;
         }
@@ -16,7 +16,7 @@ public class DoublyLinkedList {
 
     private void helper(TreeNode node) {
         if(node == null) {
-            return null;
+            return;
         }
 
         helper(node.left);
@@ -36,15 +36,15 @@ public class DoublyLinkedList {
         helper(node.right);
 
     }
-}
 
-class Node {
-    int val;
-    Node prev;
-    Node next;
+    class Node {
+        int val;
+        Node prev;
+        Node next;
 
-    public Node(int val) {
-        this.val = val;
+        public Node(int val) {
+            this.val = val;
+        }
     }
 }
 
