@@ -19,7 +19,7 @@ public class PreIn {
         }
         int current = preOrder[index[0]];
         index[0]++;
-        TreeNode node = new Node(current);
+        TreeNode node = new TreeNode(current);
         if(left == right){
             return node;
         }
