@@ -143,7 +143,7 @@ public class _10_ParallelStream {
         System.out.println("Atomic count: " + atomicCount.get());
 
         //Custom ForkJoinPool for Parallel Streams
-        
+
         // By default: parallel streams use common ForkJoinPool
         // This pool is shared by ALL parallel streams in the JVM
         // For more control: use custom ForkJoinPool

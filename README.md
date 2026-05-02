@@ -92,14 +92,14 @@ consistent daily practice and real project building.
 |-----|-------|--------|
 | Day 54 | Exception Handling — try · catch · finally · throw · throws · Custom Exceptions | ✅ |
 | Day 55 | Lambda · Functional Interfaces (Predicate · Function · Consumer · Supplier) · Method References · Stream API | ✅ |
-| Day 56 | Multithreading — Thread Lifecycle · Creating Threads · synchronized · volatile · Deadlock · ExecutorService · Future | ✅ |
-| Day 57 | Collections API — List · ArrayList (Internal) · LinkedList · Comparable · Comparator | ✅ |
-| Day 58 | Collections API — Set · HashSet · LinkedHashSet · TreeSet  | ✅ |
-| Day 59 | Collections API — Map · HashMap · LinkedHashMap · TreeMap | ✅ |
-| Day 60 | Collections API — Queue · Deque · PriorityQueue · ArrayDeque | ✅ |
-| Day 61 | SOLID Principles · Singleton · Factory · Builder Design Patterns | ✅ |
-| Day 62 | Strategy · Observer · Decorator · Adapter Design Patterns | ✅ |
-| Day 63 | JVM Internals · GC · String Pool · Modern Java (var · Records · Sealed · Switch Expressions) | ✅ |
+| Day 56-57 | Multithreading — Thread Lifecycle · Creating Threads · synchronized · volatile · Deadlock · ExecutorService · Future | ✅ |
+| Day 58 | Collections API — List · ArrayList (Internal) · LinkedList · Comparable · Comparator | ✅ |
+| Day 59 | Collections API — Set · HashSet · LinkedHashSet · TreeSet  | ✅ |
+| Day 60 | Collections API — Map · HashMap · LinkedHashMap · TreeMap | ✅ |
+| Day 61 | Collections API — Queue · Deque · PriorityQueue · ArrayDeque | ✅ |
+| Day 62 | SOLID Principles · Singleton · Factory · Builder Design Patterns | ✅ |
+| Day 63 | Strategy · Observer · Decorator · Adapter Design Patterns | ✅ |
+| Day 64 | JVM Internals · GC · String Pool · Modern Java (var · Records · Sealed · Switch Expressions) | ✅ |
 
 
 ---
